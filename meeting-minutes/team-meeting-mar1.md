@@ -39,7 +39,7 @@ Decided how to proceed to create styleguide.
 **Action steps and/or results of voting:**
 
 - Dias will create a GH repo for styleguide.
-- Anton will add styleguide for typescript and scss.
+- Anton will add styleguide for angular, typescript and scss.
 - Dias will add styleguide for solidity
 
 ### Direction of next two sprints
@@ -55,6 +55,8 @@ Main focus of next two sprints
 - Encryption
 - UDA Release
 - Styleguide
+- Releases control for BE
+- Try to move styles into library
 
 ### Flow guide
 
