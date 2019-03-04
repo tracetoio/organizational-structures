@@ -26,7 +26,7 @@ Anton and Dias shared tips for being scrum master with Jingyi.
 **Action steps and/or results of voting:**
 
 - Before sprint planning meeting: get direction and main focus, check backlog, get cards/tasks ready. 
-- During sprint planning meeting: finalize sprint goal with the team, finalize tasks with each memeber.
+- During sprint planning meeting: finalize sprint goal with the team, finalize tasks with each member.
 - During the Sprint: follow up team member status, trello columns, and blockers.
 - End of sprint: check uncompleted tasks and backlog, plan for next sprint.
 
@@ -51,7 +51,7 @@ Main focus of next two sprints
 **Action steps and/or results of voting:**
 
 - RDA new ui
-- Add entity (mainly backend)
+- Add corporate entity (mainly backend)
 - Encryption
 - UDA Release
 - Styleguide
