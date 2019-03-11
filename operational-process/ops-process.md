@@ -14,7 +14,7 @@ Our general flow is represented by:
 
 - Follow the diagram on how to move tasks across the trello board;
 - Our current sprint board is [here] (https://trello.com/b/rWIyiu62/tracetoio-dapp);
-- Every Merge to develop requires atleast 1 approval. That means 1 peer review;
+- Every Merge to develop requires at least 1 approval. That means 1 peer review;
 
 ##Release Flow
 
